@@ -1,4 +1,4 @@
-# playercontroller
+# PlayerController for the Source
 
 A couple of gifs visualising things from the PlayerController for The Source.
 
